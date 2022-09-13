@@ -1,4 +1,26 @@
+body {
+  background-color: #d62828;
+  color: white;
+  table-layout: auto;
+}
+
+th,
+td {
+  color: white;
+}
+
 .side-bar {
-  background-color: #393a44;
+  background-color: #003049;
   min-width: 200px;
+  color: #f77f00;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #f77f00;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-color: #f77f00;
+  border: none;
+  outline: #003049;
 }
