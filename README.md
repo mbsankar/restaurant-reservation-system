@@ -1,6 +1,6 @@
 # Capstone: Restaurant Reservation System
 
-[Restaurant Reservation Link] (https://frontend-reservation-system.herokuapp.com/dashboard)
+[Restaurant Reservation Link](https://frontend-reservation-system.herokuapp.com/dashboard)
 
 ![Project Image](IMG_6694.JPG)
 
