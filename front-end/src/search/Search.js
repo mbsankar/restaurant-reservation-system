@@ -49,7 +49,7 @@ export default function Search() {
             required
           />
           <div className="pt-2">
-            <button type="submit" className="btn btn-primary">
+            <button type="submit" className="btn btn-dark">
               Find
             </button>
           </div>

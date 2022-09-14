@@ -1,26 +1,38 @@
 body {
   background-color: #d62828;
-  color: white;
-  table-layout: auto;
+  color: #d6faff;
+}
+
+h1 {
+  padding-top: 1rem;
+}
+
+legend {
+  padding-top: 1rem;
 }
 
 th,
 td {
-  color: white;
+  color: #d6faff;
 }
 
 .side-bar {
   background-color: #003049;
   min-width: 200px;
-  color: #f77f00;
+}
+
+.navbar-brand {
+  font-size: 2rem;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #f77f00;
+  color: #d6faff;
+  padding-bottom: 1em;
 }
 
 .btn:not(:disabled):not(.disabled) {
-  background-color: #f77f00;
+  background-color: #d6faff;
+  color: black;
   border: none;
-  outline: #003049;
+  outline: none;
 }
